@@ -1,11 +1,16 @@
-#input{
-    background-color: white;
-}
 #body{
     width: 100%;
     height: 100%;
 }
-#elm{
+#ulTool{
+    list-style-type: none;
+}
+#liTool{
+    float: left;
+    padding-left: 2px;
+}
+#toolbar{
+    width: 100%;
     background-color: black;
-    color: white;
+    height: 30px;
 }
