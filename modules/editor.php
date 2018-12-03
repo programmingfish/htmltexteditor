@@ -9,7 +9,7 @@
     <div id="error">No errors!</div>
     <button onclick="load()" class="w3-button">Apply code</button>
     <button class="w3-button">Save</button>
-    <butto style="float: right" class="w3-button" onclick="clear()">Clear</butto>
+    <button style="float: right" class="w3-button" onclick="clear()">Clear</butto>
 </div>
 <div id="preview">
     <div id="content">
