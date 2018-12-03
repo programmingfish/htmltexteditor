@@ -7,4 +7,4 @@ that you want.
 ## Adding modules:
 to add modules you will need to add it to the modules
 folder. Than you will need to link it to the program itself
-<?php include /modules/module.php
+### php code: include /modules/module.php
