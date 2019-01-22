@@ -1,4 +1,5 @@
 <!-- see external script "main.js" for the code -->
+<!-- you can also just include the editor.php on your website -->
 <h1>Code editor <img src="/images/logoProgrammingfish.jpg" width="20px" height="20px" style="float: right"></h1>
 <div id="guide"></div>
 <?php
